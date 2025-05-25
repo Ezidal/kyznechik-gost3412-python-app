@@ -21,7 +21,7 @@ python-gui-encryption-app
 
 1. Клонируйте репозиторий:
    ```
-   git clone <адрес-репозитория>
+   git clone https://github.com/Ezidal/kyznechik-gost3412-python-app.git
    cd python-gui-encryption-app
    ```
 
