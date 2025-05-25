@@ -53,6 +53,20 @@ python-gui-encryption-app
 - Генерация случайных ключей для шифрования.
 - Ввод через консоль для продвинутых пользователей.
 
+## Примеры работы
+
+Главная панель
+![alt text](screenshots/main_panell.png)
+
+Генерация случайных ключей (32 шестандцатиричных символа = 16 байт) 
+![alt text](screenshots/random_key.png)
+
+Ввод шифруемого сообщения и результат шифрования
+![alt text](screenshots/encrypt_ex.png)
+
+Результат дешифровки
+![alt text](screenshots/decrypt.png)
+
 
 
 # Python GUI Encryption Application
